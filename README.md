@@ -50,7 +50,7 @@ Example:
 * `.cid CID_897_Athena_Commando_F_DarkBomberSummer`
 ### Emote
 Command: `.emote`\
-Aliases: `.dance`
+Aliases: `.dance`\
 Plays an emote
 
 Example:
@@ -75,7 +75,7 @@ Example:
 * `.pid HalloweenScythe`
 ### Backbling
 Command: `.backbling`\
-Aliases: `.backpack`
+Aliases: `.backpack`\
 Changes the equipped backbling
 
 Example:
@@ -89,14 +89,14 @@ Example:
 ## Extra
 ### Pink Ghoul
 Command: `.pinkghoul`\
-Aliases: `.pg`
+Aliases: `.pg`\
 Changes the equipped skin to Pink Ghoul Trooper
 
 Example:
 * `.pinkghoul`
 ### Purple Skull
 Command: `.purpleskull`\
-Aliases: `.ps`
+Aliases: `.ps`\
 Changes the equipped skin to Purple Skull Trooper
 
 Example:
