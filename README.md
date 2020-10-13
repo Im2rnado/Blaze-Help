@@ -2,7 +2,7 @@
 
 # <img src="https://i.imgur.com/indd1u4.png" width="26px" draggable="false"><b> </b>Blaze &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-1.0.0-yellow.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/764779626202398751.svg?style=for-the-badge&color=yellow&logo=discord&logoColor=white)](https://discord.gg/gcHPZUC)
+### ![version](https://img.shields.io/badge/Version-1.0.0-orange.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/764779626202398751.svg?style=for-the-badge&color=orange&logo=discord&logoColor=white)](https://discord.gg/gcHPZUC)
 
 <a target="_blank" href="https://discord.gg/gcHPZUC" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/764779626202398751/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
