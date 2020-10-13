@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://i.imgur.com/indd1u4.png" width="26px" draggable="false"><b> </b>Blaze &middot; Discord Bot
+# <img src="https://cdn.discordapp.com/attachments/764779626202398755/765552901757730816/image0.png" width="26px" draggable="false"><b> </b>Blaze &middot; Discord Bot
 
 ### ![version](https://img.shields.io/badge/Version-1.0.0-orange.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/764779626202398751.svg?style=for-the-badge&color=orange&logo=discord&logoColor=white)](https://discord.gg/gcHPZUC)
 
