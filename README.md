@@ -158,10 +158,12 @@ Example:
  * Alex
  * xMistt
  * Officer
-## Libraries
+ * Teenari
+## Libraries/APIs
  * [fnbr.js](https://fnbr.js.org/)
  * [discord.js](https://discord.js.org/)
  * [Fortnite-API](https://fortnite-api.com)
+ * Blobry
 
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games.
